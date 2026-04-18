@@ -19,8 +19,8 @@ window.onload = function () {
   let valAction = generateRandom(action);
   let valwhat = generateRandom(what);
   let valwhen = generateRandom(when);
-  document.querySelector("#excuse").innerHTML = valWho + ' '+ valAction+ ' '+ valwhat+' '+ valwhen;
-  
+  document.querySelector("#excuse").innerHTML = valWho + ' ' + valAction + ' ' + valwhat + ' ' + valwhen;
+
 };
 
 
